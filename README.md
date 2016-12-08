@@ -7,6 +7,8 @@ Tool for applying linear transforms to SolidWorks Composer camera views.
 
 Writes transformed file to output.smgView
 
+Requires Numpy to be installed.
+
 SolidWorks Composer is property of Dassault Systèmes who is no way affiliated with this project.
 
 This script is licenced under the WTFPL, see COPYING for more details.
